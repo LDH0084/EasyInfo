@@ -1,0 +1,17 @@
+{
+    "name": "easyinfo/yii2-swoole",
+    "description": "easy yii2 swoole",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "landehua",
+            "email": "15732632019@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Guanguans\\": "src/"
+        }
+    }
+}
